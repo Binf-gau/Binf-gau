@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Developer_GIF](https://media2.giphy.com/media/JbPTuaabJvigPto4De/giphy.gif?cid=ecf05e47xa1skiiibntk8xsl7qnryurvo2jwgj5kaujllipk&rid=giphy.gif&ct=g)
+
 <!--
 **Binf-gau/Binf-gau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
